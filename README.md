@@ -1,4 +1,4 @@
 # github-demo-
 First github repository
 <br>
-Author = Shubham Jindal
+Author = Shubham Jindal jindal
